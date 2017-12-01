@@ -1,0 +1,40 @@
+﻿生成启动时间为 2017/10/23 19:23:00。
+     1>项目“F:\资料\protobuf-master\vsprojects\tests.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (libprotobuf-lite.vcxproj, libprotobuf.vcxproj, libprotoc.vcxproj, lite-test.vcxproj, test_plugin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>CustomBuild:
+         Generating cpp_test_bad_identifiers.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_custom_options.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_embed_optimize_for.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_import.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_import_public.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_lite_imports_nonlite.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_mset.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_optimize_for.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Generating unittest_no_generic_services.pb.{h,cc}...
+         'Debug\protoc' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: “cmd.exe”已退出，代码为 9009。
+     1>已完成生成项目“F:\资料\protobuf-master\vsprojects\tests.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.36

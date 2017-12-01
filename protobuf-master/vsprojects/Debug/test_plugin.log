@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/10/23 19:23:00。
+     1>项目“F:\资料\protobuf-master\vsprojects\test_plugin.vcxproj”在节点 4 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : 文件“f:\资料\protobuf-master\vsprojects\debug\vc120.pdb”正由另一进程使用，因此该进程无法访问此文件。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : 文件“f:\资料\protobuf-master\vsprojects\debug\vc120.idb”正由另一进程使用，因此该进程无法访问此文件。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (libprotobuf-lite.vcxproj, libprotobuf.vcxproj, libprotoc.vcxproj, lite-test.vcxproj, protoc.vcxproj, tests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../src /I. /I../gtest/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /wd4244 /wd4267 /wd4018 /wd4355 /wd4800 /wd4251 /wd4996 /wd4146 /wd4305 ..\src\google\protobuf\compiler\test_plugin.cc ..\src\google\protobuf\compiler\mock_code_generator.cc ..\src\google\protobuf\testing\file.cc
+     1>cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
+         test_plugin.cc
+         mock_code_generator.cc
+     1>f:\资料\protobuf-master\src\google\protobuf\compiler\mock_code_generator.cc(44): fatal error C1083: 无法打开包括文件: “gtest/gtest.h”: No such file or directory
+         file.cc
+         正在生成代码...
+     1>已完成生成项目“F:\资料\protobuf-master\vsprojects\test_plugin.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.22
