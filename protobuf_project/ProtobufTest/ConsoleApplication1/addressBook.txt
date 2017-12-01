@@ -1,0 +1,170 @@
+people {
+  name: "xiaoming"
+  id: 0
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 1
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 2
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 3
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 4
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 5
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 6
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 7
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 8
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
+people {
+  name: "xiaoming"
+  id: 9
+  email: "xiaoming@qq.com"
+  phones {
+    number: "100000"
+    type: MOBILE
+  }
+  phones {
+    number: "100001"
+    type: HOME
+  }
+  phones {
+    number: "100002"
+    type: WORK
+  }
+}
